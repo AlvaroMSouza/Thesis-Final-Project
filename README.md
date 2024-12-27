@@ -39,4 +39,4 @@ This repository shows the python code that I develop to train, test and extract 
 Final Visualization Tool: [Link](https://public.tableau.com/app/profile/.lvaro.souza/vizzes)
 
 
-Full Pdf of my thesis is also available.
+Full pdf of my thesis is also available.
