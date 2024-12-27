@@ -32,3 +32,5 @@ identifying its limitations and potential future enhancements.
 Thus, this dissertation contributes to the advancement of geospatial data analysis,
 providing users, professionals and scientists, with a tool capable of evaluating different
 classifiers so that they can make informed decisions.
+
+Final Visualization Tool: [Link]([https://pages.github.com/](https://public.tableau.com/app/profile/.lvaro.souza/vizzes)).
