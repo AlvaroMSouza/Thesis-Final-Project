@@ -33,4 +33,6 @@ Thus, this dissertation contributes to the advancement of geospatial data analys
 providing users, professionals and scientists, with a tool capable of evaluating different
 classifiers so that they can make informed decisions.
 
+This repository shows the python code that I develop to train, test and extract all the information from my models and their performances. Besides I leave in attach a Link where you can analyse my dashboards.
 Final Visualization Tool: [Link](https://public.tableau.com/app/profile/.lvaro.souza/vizzes)
+Full Pdf of my thesis is also available.
